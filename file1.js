@@ -8,3 +8,4 @@ console.log("hey");
 const z = 10;
 const name = "ali";
 const hello = () => console.log("hello");
+const bye = () => console.log("bye babe");
